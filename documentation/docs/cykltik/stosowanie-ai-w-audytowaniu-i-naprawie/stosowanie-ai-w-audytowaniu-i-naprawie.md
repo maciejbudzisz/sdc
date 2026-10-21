@@ -8,7 +8,7 @@ tags: [cykl życia TIK, dostępność cyfrowa, sztuczna inteligencja, ocenianie 
 opracowanie: Maciej Budzisz, Cezary Tomczyk, Stefan Wajda
 współpraca: Bartłomiej Wilk
 data_zgloszenia: 22 maja 2026 r.
-ostatnia_aktualizacja: 13 października 2026 r.
+ostatnia_aktualizacja: 21 października 2026 r.
 wersja_robocza: true
 ---
 
